@@ -10,7 +10,8 @@ For ease of reference, the projects were assigned to one of four categories:
 - [Tools](#tools)
 
 ## Native Application
-
+- [IScholar](https://github.com/KlapfinaTor/IScholar)
+    - A JavaFX application that allows the creation and management of courses. Students can enroll in courses and get their personal schedule.
 ## Web Application / Service
 - [Simple Logger Android](https://github.com/KlapfinaTor/silo-android)
     - A simple Android remote logging library for Android. It is build ontop of the standard Log class that can be extended easily. 
@@ -23,3 +24,4 @@ For ease of reference, the projects were assigned to one of four categories:
     - A toolset that allows automated capture, analysis and categorization of Amazon Alexa interactions using machine learning. 
 
 ## Tools
+- Soon
